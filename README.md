@@ -39,7 +39,7 @@ Clone the repository: git clone https://github.com/nihonor/crud_operation.git
 Install dependencies: npm install (in both backend and frontend folders)
 Start the backend server: node index.js (in backend folder)
 Start the frontend development server: npm run dev (in frontend folder)
-Open the app in your browser: http://localhost:3001
+Open the app in your browser: http://localhost:5173
 License
 
 
